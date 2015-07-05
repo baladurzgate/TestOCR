@@ -26,8 +26,12 @@ if($sum < 12){
 		
 }
 
-echo $message ; 
 ?>
+<html>
+	<body style = "width:700px ; margin:0 auto;">
+		<?php echo $message; ?>
+	</body>
+</html>
 
 
 
