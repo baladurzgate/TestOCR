@@ -12,11 +12,11 @@ var sum = dice_1+dice_2;
 
 if(sum < 12){
 
-	alert  (dice_1+"  "+dice_2+" = "+sum+"   perdu ! ");
+	alert  (dice_1+"  "+dice_2+" = "+sum+"   vous avez perdu ! ");
 
 }else{
 		
-	alert  (dice_1+"  "+dice_2+" = "+sum+"   gagné ! ");
+	alert  (dice_1+"  "+dice_2+" = "+sum+"   vous avez gagné ! ");
 		
 }
 
